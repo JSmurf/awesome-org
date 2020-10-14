@@ -1,0 +1,26 @@
+* Awesome Org
+[[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]] 
+
+
+** Emacs Packages
+- [[https://orgmode.org/][Org]] - =[built-in]= Write notes, GTD, authoring, publish and wash dishes.
+  - [[https://github.com/sillykelvin/org-page][org-page]] - A static site generator based on org-mode files.
+  - [[https://github.com/coldnew/org-ioslide][org-ioslide]] - Export Org document into Google I/O HTML5 slide.
+  - [[https://github.com/sabof/org-bullets][org-bullets]] - Shows org-mode bullets as pretty UTF-8 characters.
+  - [[https://github.com/org-trello/org-trello][org-trello]] - Minor mode to synchronize org-mode buffer and [[https://trello.com][trello]] board.
+  - [[https://github.com/alphapapa/org-protocol-capture-html][org-protocol-capture-html]] - Capture HTML from the browser selection into Emacs as org-mode content.
+  - [[https://github.com/Kungsgeten/org-brain][org-brain]] - Org-mode wiki + concept-mapping.
+  - [[https://github.com/rexim/org-cliplink][org-cliplink]] - Insert org-mode links from clipboard.
+  - [[https://github.com/alphapapa/org-rifle][helm-org-rifle]] - Rifle through your Org buffers and acquire your target.
+  - [[https://github.com/abo-abo/org-download][org-download]] - Drag and drop images to Emacs org-mode.
+  - [[https://github.com/fniessen/org-html-themes][org-html-themes]] - Export Org mode files into awesome HTML in 2 minutes.
+  - [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]] - Help organize your agenda items into tidy groups.
+  - [[https://github.com/weirdNox/org-noter][org-noter]] - Annotate documents with a synchronized org-mode buffer alongside them.
+  - [[https://github.com/felipelalli/org-sort-tasks][org-sort-tasks]] - Functions to keep TODO tasks in orgmode sorted and organized.
+  - [[https://github.com/DanielDe/org-web][org-web]] - Web app for viewing and editing org files online, optimized for mobile use.
+  - [[https://github.com/org-roam/org-roam][org-roam]] -  a [[https://www.roamresearch.com/][Roam]] replica built on top of the all-powerful Org-mode.
+
+- [[https://github.com/snosov1/toc-org][toc-org]] - Generate TOC for Org files.
+** Non-Emacs Readers/Editors
+
+** Resources
