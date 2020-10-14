@@ -24,8 +24,9 @@
 ** Non-Emacs Readers/Editors
 *** Web-Based
 - [[https://github.com/logseq/logseq][Logseq]] - =[alpha]= a local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
-*** Visual Studio Code
-- [[https://github.com/vscode-org-mode/vscode-org-mode][VS Code Org Mode]] - Org Mode extension for Visual Studio Code. 
+*** Other Editors
+- [[https://github.com/vscode-org-mode/vscode-org-mode][VS Code Org Mode]] - Org Mode extension for Visual Studio Code.
+- [[https://github.com/jceb/vim-orgmode][Vim-OrgMode]] - Org Mode plugin for Vim.
 
 
 ** Resources
