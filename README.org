@@ -28,5 +28,6 @@
 - [[https://github.com/vscode-org-mode/vscode-org-mode][VS Code Org Mode]] - Org Mode extension for Visual Studio Code.
 - [[https://github.com/jceb/vim-orgmode][Vim-OrgMode]] - Org Mode plugin for Vim.
 - [[https://atom.io/packages/organized][Organized]] - Org Mode for Atom.
+- [[https://github.com/danielmagnussons/orgmode][orgmode for Sublime Text]] - Org Mode for Sublime Text.
 
 ** Resources
