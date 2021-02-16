@@ -21,6 +21,7 @@
   - [[https://github.com/org-roam/org-roam][org-roam]] -  a [[https://www.roamresearch.com/][Roam]] replica built on top of the all-powerful Org-mode.
 
 - [[https://github.com/snosov1/toc-org][toc-org]] - Generate TOC for Org files.
+- [[https://github.com/yuchen-lea/org-media-note][org-media-note]] - Take notes for video and audio files in org-mode!
 ** Non-Emacs Readers/Editors
 *** Web-Based
 - [[https://github.com/logseq/logseq][Logseq]] - =[alpha]= a local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
