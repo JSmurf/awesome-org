@@ -32,5 +32,6 @@
 - [[https://github.com/danielmagnussons/orgmode][orgmode for Sublime Text]] - Org Mode for Sublime Text.
 *** Mobile Apps
 - [[https://beorgapp.com/][Beorg]] - An iOS app that uses Org Mode files.
+- [[https://orgro.org][Orgro]] - An iOS and Android app for viewing Org files. Good for note-takers who want to be able to read their notes easily while on the go. 
 - [[http://www.orgzly.com/][Orgzly]] - An Android app that uses Org Mode for Notes and Todo Lists.
 ** Resources
