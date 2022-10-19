@@ -36,3 +36,4 @@
 - [[https://orgro.org][Orgro]] - An iOS and Android app for viewing Org files. Good for note-takers who want to be able to read their notes easily while on the go. 
 - [[http://www.orgzly.com/][Orgzly]] - An Android app that uses Org Mode for Notes and Todo Lists.
 ** Resources
+- [[An Agenda for Life With Org Mode][https://blog.aaronbieber.com/2016/09/24/an-agenda-for-life-with-org-mode.html]] - Article by Aaron Bieber
