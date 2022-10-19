@@ -38,3 +38,5 @@
 ** Resources
 - [[https://blog.aaronbieber.com/2016/09/24/an-agenda-for-life-with-org-mode.html][An Agenda for Life With Org Mode]] - Article by Aaron Bieber
 - [[https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html][Orgmode for GTD]] - Article by Nicolas Petton
+*** Communities
+- [[https://www.reddit.com/r/orgmode/][reddit.com/r/orgmode]] - A Reddit community for users of Org Mode
